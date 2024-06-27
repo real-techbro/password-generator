@@ -7,21 +7,25 @@ Features
 Allows users to specify the length of the password.
 Option to include symbols and numbers in the password.
 Randomly shuffles and generates a secure password.
+
+
 Requirements
 
 Python 3.x
+
+
 Usage
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
+
+git clone https://github.com/real-techbro/password-generator.git
+cd password-generator
 Run the script:
 
-bash
-Copy code
+
+
 python main.py
 Follow the prompts:
 
@@ -33,8 +37,7 @@ Get your generated password:
 The script will generate and display your secure password.
 Example
 
-vbnet
-Copy code
+
 Welcome to the Tech Password Generator!
 Please enter the desired length for your password
 12
@@ -43,6 +46,9 @@ yes
 Do you want Numbers in your password?
 yes
 Your password is: g^3A$x4LbP1!
+
+
+
 Notes
 
 Ensure you have Python 3 installed on your machine.
